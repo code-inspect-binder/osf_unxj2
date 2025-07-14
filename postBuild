@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/unxj2_src/scripts/functions")' >> /home/jovyan/.Rprofile
